@@ -1,0 +1,75 @@
+C:\Users\user\Desktop\פרויקט משחק זיכרון\יז אייר פרויקט משחק זכרון\remembering game\remembering game\obj\Debug\net6.0\remembering game.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרויקט משחק זיכרון\יז אייר פרויקט משחק זכרון\remembering game\remembering game\obj\Debug\net6.0\remembering game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרויקט משחק זיכרון\יז אייר פרויקט משחק זכרון\remembering game\remembering game\obj\Debug\net6.0\remembering game.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרויקט משחק זיכרון\יז אייר פרויקט משחק זכרון\remembering game\remembering game\obj\Debug\net6.0\remembering game.AssemblyInfo.cs
+C:\Users\user\Desktop\פרויקט משחק זיכרון\יז אייר פרויקט משחק זכרון\remembering game\remembering game\obj\Debug\net6.0\remembering game.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט משחק זיכרון\יז אייר פרויקט משחק זכרון\remembering game\remembering game\bin\Debug\net6.0\remembering game.exe
+C:\Users\user\Desktop\פרויקט משחק זיכרון\יז אייר פרויקט משחק זכרון\remembering game\remembering game\bin\Debug\net6.0\remembering game.deps.json
+C:\Users\user\Desktop\פרויקט משחק זיכרון\יז אייר פרויקט משחק זכרון\remembering game\remembering game\bin\Debug\net6.0\remembering game.runtimeconfig.json
+C:\Users\user\Desktop\פרויקט משחק זיכרון\יז אייר פרויקט משחק זכרון\remembering game\remembering game\bin\Debug\net6.0\remembering game.dll
+C:\Users\user\Desktop\פרויקט משחק זיכרון\יז אייר פרויקט משחק זכרון\remembering game\remembering game\bin\Debug\net6.0\remembering game.pdb
+C:\Users\user\Desktop\פרויקט משחק זיכרון\יז אייר פרויקט משחק זכרון\remembering game\remembering game\obj\Debug\net6.0\remembering game.dll
+C:\Users\user\Desktop\פרויקט משחק זיכרון\יז אייר פרויקט משחק זכרון\remembering game\remembering game\obj\Debug\net6.0\refint\remembering game.dll
+C:\Users\user\Desktop\פרויקט משחק זיכרון\יז אייר פרויקט משחק זכרון\remembering game\remembering game\obj\Debug\net6.0\remembering game.pdb
+C:\Users\user\Desktop\פרויקט משחק זיכרון\יז אייר פרויקט משחק זכרון\remembering game\remembering game\obj\Debug\net6.0\remembering game.genruntimeconfig.cache
+C:\Users\user\Desktop\פרויקט משחק זיכרון\יז אייר פרויקט משחק זכרון\remembering game\remembering game\obj\Debug\net6.0\ref\remembering game.dll
+C:\Users\user\Desktop\remembering game\remembering game\bin\Debug\net6.0\remembering game.exe
+C:\Users\user\Desktop\remembering game\remembering game\bin\Debug\net6.0\remembering game.deps.json
+C:\Users\user\Desktop\remembering game\remembering game\bin\Debug\net6.0\remembering game.runtimeconfig.json
+C:\Users\user\Desktop\remembering game\remembering game\bin\Debug\net6.0\remembering game.dll
+C:\Users\user\Desktop\remembering game\remembering game\bin\Debug\net6.0\remembering game.pdb
+C:\Users\user\Desktop\remembering game\remembering game\obj\Debug\net6.0\remembering game.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\remembering game\remembering game\obj\Debug\net6.0\remembering game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\remembering game\remembering game\obj\Debug\net6.0\remembering game.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\remembering game\remembering game\obj\Debug\net6.0\remembering game.AssemblyInfo.cs
+C:\Users\user\Desktop\remembering game\remembering game\obj\Debug\net6.0\remembering game.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\remembering game\remembering game\obj\Debug\net6.0\remembering game.dll
+C:\Users\user\Desktop\remembering game\remembering game\obj\Debug\net6.0\refint\remembering game.dll
+C:\Users\user\Desktop\remembering game\remembering game\obj\Debug\net6.0\remembering game.pdb
+C:\Users\user\Desktop\remembering game\remembering game\obj\Debug\net6.0\remembering game.genruntimeconfig.cache
+C:\Users\user\Desktop\remembering game\remembering game\obj\Debug\net6.0\ref\remembering game.dll
+C:\Users\user\Desktop\תכנות\c#\remembering game\remembering game\bin\Debug\net6.0\remembering game.exe
+C:\Users\user\Desktop\תכנות\c#\remembering game\remembering game\bin\Debug\net6.0\remembering game.deps.json
+C:\Users\user\Desktop\תכנות\c#\remembering game\remembering game\bin\Debug\net6.0\remembering game.runtimeconfig.json
+C:\Users\user\Desktop\תכנות\c#\remembering game\remembering game\bin\Debug\net6.0\remembering game.dll
+C:\Users\user\Desktop\תכנות\c#\remembering game\remembering game\bin\Debug\net6.0\remembering game.pdb
+C:\Users\user\Desktop\תכנות\c#\remembering game\remembering game\obj\Debug\net6.0\remembering game.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\תכנות\c#\remembering game\remembering game\obj\Debug\net6.0\remembering game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\תכנות\c#\remembering game\remembering game\obj\Debug\net6.0\remembering game.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\תכנות\c#\remembering game\remembering game\obj\Debug\net6.0\remembering game.AssemblyInfo.cs
+C:\Users\user\Desktop\תכנות\c#\remembering game\remembering game\obj\Debug\net6.0\remembering game.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\תכנות\c#\remembering game\remembering game\obj\Debug\net6.0\remembering game.dll
+C:\Users\user\Desktop\תכנות\c#\remembering game\remembering game\obj\Debug\net6.0\refint\remembering game.dll
+C:\Users\user\Desktop\תכנות\c#\remembering game\remembering game\obj\Debug\net6.0\remembering game.pdb
+C:\Users\user\Desktop\תכנות\c#\remembering game\remembering game\obj\Debug\net6.0\remembering game.genruntimeconfig.cache
+C:\Users\user\Desktop\תכנות\c#\remembering game\remembering game\obj\Debug\net6.0\ref\remembering game.dll
+E:\remembering game\remembering game\bin\Debug\net6.0\remembering game.exe
+E:\remembering game\remembering game\bin\Debug\net6.0\remembering game.deps.json
+E:\remembering game\remembering game\bin\Debug\net6.0\remembering game.runtimeconfig.json
+E:\remembering game\remembering game\bin\Debug\net6.0\remembering game.dll
+E:\remembering game\remembering game\bin\Debug\net6.0\remembering game.pdb
+E:\remembering game\remembering game\obj\Debug\net6.0\remembering game.csproj.AssemblyReference.cache
+E:\remembering game\remembering game\obj\Debug\net6.0\remembering game.GeneratedMSBuildEditorConfig.editorconfig
+E:\remembering game\remembering game\obj\Debug\net6.0\remembering game.AssemblyInfoInputs.cache
+E:\remembering game\remembering game\obj\Debug\net6.0\remembering game.AssemblyInfo.cs
+E:\remembering game\remembering game\obj\Debug\net6.0\remembering game.csproj.CoreCompileInputs.cache
+E:\remembering game\remembering game\obj\Debug\net6.0\remembering game.dll
+E:\remembering game\remembering game\obj\Debug\net6.0\refint\remembering game.dll
+E:\remembering game\remembering game\obj\Debug\net6.0\remembering game.pdb
+E:\remembering game\remembering game\obj\Debug\net6.0\remembering game.genruntimeconfig.cache
+E:\remembering game\remembering game\obj\Debug\net6.0\ref\remembering game.dll
+C:\Users\user\Desktop\תכנות\c#\שנה א\remembering game\remembering game\bin\Debug\net6.0\remembering game.exe
+C:\Users\user\Desktop\תכנות\c#\שנה א\remembering game\remembering game\bin\Debug\net6.0\remembering game.deps.json
+C:\Users\user\Desktop\תכנות\c#\שנה א\remembering game\remembering game\bin\Debug\net6.0\remembering game.runtimeconfig.json
+C:\Users\user\Desktop\תכנות\c#\שנה א\remembering game\remembering game\bin\Debug\net6.0\remembering game.dll
+C:\Users\user\Desktop\תכנות\c#\שנה א\remembering game\remembering game\bin\Debug\net6.0\remembering game.pdb
+C:\Users\user\Desktop\תכנות\c#\שנה א\remembering game\remembering game\obj\Debug\net6.0\remembering game.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\תכנות\c#\שנה א\remembering game\remembering game\obj\Debug\net6.0\remembering game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\תכנות\c#\שנה א\remembering game\remembering game\obj\Debug\net6.0\remembering game.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\תכנות\c#\שנה א\remembering game\remembering game\obj\Debug\net6.0\remembering game.AssemblyInfo.cs
+C:\Users\user\Desktop\תכנות\c#\שנה א\remembering game\remembering game\obj\Debug\net6.0\remembering game.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\תכנות\c#\שנה א\remembering game\remembering game\obj\Debug\net6.0\remembering game.dll
+C:\Users\user\Desktop\תכנות\c#\שנה א\remembering game\remembering game\obj\Debug\net6.0\refint\remembering game.dll
+C:\Users\user\Desktop\תכנות\c#\שנה א\remembering game\remembering game\obj\Debug\net6.0\remembering game.pdb
+C:\Users\user\Desktop\תכנות\c#\שנה א\remembering game\remembering game\obj\Debug\net6.0\remembering game.genruntimeconfig.cache
+C:\Users\user\Desktop\תכנות\c#\שנה א\remembering game\remembering game\obj\Debug\net6.0\ref\remembering game.dll
